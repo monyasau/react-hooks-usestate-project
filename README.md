@@ -2,8 +2,7 @@
 This is a simple project built with React Hooks and state that updates the number in an h2 element whenever the button is clicked.
 
 # Live-link
-here's a live link to the project
-# [ https://react-hooks-usestate-project.netlify.app/ ]
+https://react-hooks-usestate-project.netlify.app
 
 # Local Installation
 To install the project, follow these steps:
@@ -15,7 +14,4 @@ then this command:
 # cd /react-hooks-usestate-project
 
 and this:
-# npm install
-and finally this:
-# npm start
 
